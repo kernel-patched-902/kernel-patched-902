@@ -4,7 +4,7 @@
 
 ### Tech Stack & Tools
 
-**Operating System:** Fedora Linux
+* **Operating System:** Fedora Linux
 
 * **Environments & Core Tools:** GNOME desktop configuration, Flatpak package management, Linux terminal basics
 
